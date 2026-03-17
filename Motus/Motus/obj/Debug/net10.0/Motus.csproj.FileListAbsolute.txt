@@ -1,0 +1,15 @@
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/Motus
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/mots.txt
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/Motus.deps.json
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/Motus.runtimeconfig.json
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/Motus.dll
+/Users/den/RemDen/BDEV2/C/Motus/Motus/bin/Debug/net10.0/Motus.pdb
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.AssemblyInfoInputs.cache
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.AssemblyInfo.cs
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.csproj.CoreCompileInputs.cache
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.dll
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/refint/Motus.dll
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.pdb
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/Motus.genruntimeconfig.cache
+/Users/den/RemDen/BDEV2/C/Motus/Motus/obj/Debug/net10.0/ref/Motus.dll

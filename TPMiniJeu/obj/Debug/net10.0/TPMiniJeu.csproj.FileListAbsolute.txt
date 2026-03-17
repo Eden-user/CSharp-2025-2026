@@ -1,0 +1,14 @@
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/bin/Debug/net10.0/TPMiniJeu
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/bin/Debug/net10.0/TPMiniJeu.deps.json
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/bin/Debug/net10.0/TPMiniJeu.runtimeconfig.json
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/bin/Debug/net10.0/TPMiniJeu.dll
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/bin/Debug/net10.0/TPMiniJeu.pdb
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.AssemblyInfoInputs.cache
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.AssemblyInfo.cs
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.csproj.CoreCompileInputs.cache
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.dll
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/refint/TPMiniJeu.dll
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.pdb
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/TPMiniJeu.genruntimeconfig.cache
+/Users/den/RemDen/BDEV2/C/TPMiniJeu/TPMiniJeu/obj/Debug/net10.0/ref/TPMiniJeu.dll
